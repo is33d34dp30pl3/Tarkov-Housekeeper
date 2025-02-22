@@ -1,6 +1,6 @@
 I have created a set of batch files designed to automate the clearing of the Tarkov cache, logs folder, and DX cache. You can place these files on your desktop or in any other preferred location for easy access.
 
-Autolaunch: This script deletes the logs folder within the default game installation directory and clears the cache in your C drive's temp directory. It mimics the "Clear Cache" button found in the game launcher. Whenever you experience performance issues, running this script will help prepare the game for optimal performance with just one click. After cleaning, it automatically launches the Tarkov launcher. If you create a shortcut to this .bat with the BSG launcher icon, you can clear your logs automatically every time you start the launcher.
+Autolaunch: This script deletes the logs folder within the default game installation directory and clears the cache in your C drive's temp directory. It mimics the "Clear Cache" button found in the game launcher. Whenever you experience performance issues, running this script will help prepare the game for optimal performance with just one click. After cleaning, it automatically launches the Tarkov launcher. If you create a shortcut to this .bat with the BSG launcher icon, you can clear your logs and cache automatically every time you start the launcher.
 
 Quick Clean: This script functions similarly to the first, but it does not automatically launch the Tarkov launcher after clearing the logs and cache.
 
